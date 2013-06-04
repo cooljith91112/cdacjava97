@@ -1,4 +1,6 @@
 cdacjava97
 ==========
 
-repository of Java lab assignment programs [2305-1906-2013]
+The source codes in the repository may contain errors and may be incomplete, double check before running!
+
+___ Indrajith K L {KLIS@Coding}
