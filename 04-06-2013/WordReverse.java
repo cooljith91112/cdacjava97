@@ -1,6 +1,8 @@
 // Author : Indrajith K L
 // Program : Reverse each word in a text
 
+// @#KL FLAG : INCOMPLETE
+
 import java.util.*;
 
 class WordReverse
