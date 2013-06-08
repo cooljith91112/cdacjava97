@@ -1,0 +1,4 @@
+public interface Exam
+{
+	boolean pass (int a);
+}

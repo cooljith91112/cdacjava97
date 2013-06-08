@@ -1,0 +1,4 @@
+public interface Classify
+{
+	String division (int b);
+}
