@@ -42,7 +42,8 @@ public class Banner extends Applet implements Runnable
 		{
 			try
 			{
-				repaint(0,310,100,100);
+				//repaint(0,310,100,100);
+				repaint();
 				Thread.sleep(500);
 				ch=msg.charAt(0);
 				msg=msg.substring(1,msg.length());
